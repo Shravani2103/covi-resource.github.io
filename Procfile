@@ -1,0 +1,1 @@
+web: gunicorn Res_centre.wsgi --log-file -
