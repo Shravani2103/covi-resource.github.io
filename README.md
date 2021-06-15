@@ -1,1 +1,0 @@
-# covi-resource.github.io
